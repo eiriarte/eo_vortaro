@@ -5,7 +5,7 @@ Esperanta Vortaro por Firefox.
 
 Por ĝin instali, iru al:
 
-https://addons.mozilla.org/firefox/addon/ĉapelisto/
+https://addons.mozilla.org/firefox/addon/esperanta-vortaro/
 
 Permesilo
 ----------
